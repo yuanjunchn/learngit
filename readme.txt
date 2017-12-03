@@ -3,8 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 add a line.
 add a line to github.
-Creating a new branch is quick.
-
+Creating a new branch is quick AND simple.
 
 
 
